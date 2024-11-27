@@ -1,5 +1,5 @@
 -- GRNK Notes
--- Exploring norns
+-- Explore norns
 
 engine.name = 'Autumn'
 hs = include('lib/halfsecond')
